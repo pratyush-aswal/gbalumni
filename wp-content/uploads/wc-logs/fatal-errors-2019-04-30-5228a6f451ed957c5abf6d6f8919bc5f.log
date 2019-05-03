@@ -1,0 +1,6 @@
+2019-04-30T15:44:48+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\MAMP\htdocs\galumni\wp-includes\wp-db.php on line 2007
+
+2019-04-30T15:45:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\galumni\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-04-30T15:52:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\galumni\wp-includes\Requests\Transport\cURL.php on line 463
+
